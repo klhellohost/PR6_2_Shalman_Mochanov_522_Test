@@ -1,4 +1,4 @@
-# PR6_2_Sokolov_Kardonov_522_Test
+# PR6_2_Shalman_Mochanov_522_Test
 
 1. **Скриншот содержимого таблицы с пользователями из СУБД Microsoft SQL Server**  
    ![image](https://github.com/user-attachments/assets/fb2e64c4-e6bf-4da8-b785-7b670adf89fd)
@@ -20,5 +20,5 @@
    - правильная генерация и проверка капчи.
 
 4. **Прикрепленные материалы**
-   - [**SQL-скрипт базы данных**](https://github.com/sh0egaaze/PR6_2_Sokolov_Kardonov_522_Test/blob/master/resources/script.sql)
-   - [**Ссылка на программное решение в СКВ Git**](https://github.com/sh0egaaze/PR6_2_Sokolov_Kardonov_522_Test)
+   - [**SQL-скрипт базы данных**](https://github.com/klhellohost/PR6_2_Shalman_Mochanov_522_Test/blob/master/resources/script.sql)
+   - [**Ссылка на программное решение в СКВ Git**](https://github.com/klhellohost/PR6_2_Shalman_Mochanov_522_Test)
